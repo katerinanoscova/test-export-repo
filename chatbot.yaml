@@ -1,0 +1,5 @@
+# chatbot.yaml
+version: "1.0"
+entities:
+  - name: "test_entity"
+    type: "dialog"
